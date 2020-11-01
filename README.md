@@ -2,7 +2,9 @@
 
 A book written by a Twitch stream, god help us all.
 
-This is part of NANOWRIMO (Write a Novel in A Month) and being written over at [ColloquialOwl on Twitch](https://twitch.tv/colloquialowl)
+This is part of NANOWRIMO (Write a Novel in A Month) and being written over at [ColloquialOwl on Twitch](https://twitch.tv/colloquialowl).
+
+We need to hit 50,000 words by December. Good luck.
 
 ## __The Novel__
 
@@ -23,5 +25,6 @@ If you just want to add a name suggestion for a character, place, or the book it
 * #hugsallowed
 
 ### Notes
-> Please try to use character names and places from the suggested name documents so that people can contribute at any level.
+> * Don't be afraid to write something generic/cringy. It's a changing document and every word takes us closer to that 50,000 word goal.
+> * Please try to use character names and places from the suggested name documents so that people can contribute at any level.
 
