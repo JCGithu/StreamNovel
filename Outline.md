@@ -1,7 +1,6 @@
 
 
-* Chapter 1: 
-Aeliana wakes up in a strange place with no memory.
+* Chapter 1: Aeliana wakes up in a strange place with no memory.
 
 * Chapter 2: We are introduced to a great evil sweeping across the land... / Introduces a comedy best friend character
 
@@ -31,7 +30,7 @@ Aeliana wakes up in a strange place with no memory.
 
 * Chapter 15:
 
-* Chapter 16: She is offered to join the great evil.
+* Chapter 16: She is offered to join the great evil, with offer of returning her memories.
 
 * Chapter 17: 
 
