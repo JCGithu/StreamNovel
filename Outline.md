@@ -3,11 +3,11 @@
 * Chapter 1: 
 Aeliana wakes up in a strange place with no memory.
 
-* Chapter 2:
+* Chapter 2: We are introduced to a great evil sweeping across the land...
 
 * Chapter 3:
 
-* Chapter 4:
+* Chapter 4: The first encounter with the great evil.
 
 * Chapter 5:
 
@@ -33,7 +33,7 @@ Aeliana wakes up in a strange place with no memory.
 
 * Chapter 16:
 
-* Chapter 17:
+* Chapter 17: We find out the leader of the great evil is NOT Aeliana's biological mother
 
 * Chapter 18:
 
